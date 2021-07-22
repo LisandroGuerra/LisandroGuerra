@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="Mars_Virtual_Photo_1.png">
+<img align="right" width="400" src="Mars_Virtual_Photo_1.png">
  
 # Welcome!
  
