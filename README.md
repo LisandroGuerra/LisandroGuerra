@@ -2,7 +2,7 @@
  
 # Welcome!
  
-## I'm Lisandro!
+## I'm Lisandro ♂️
 
 ## About me
 
@@ -16,7 +16,7 @@ I am graduated in Business Administration, post graduated in Information Technol
 - ⚛️ Eletronics
 - 🤖 Robotics
 - 🎮 Video Games
-- 😻 Pets
+- 🐾 Pets
 - 🏀 Basketball
 - 🥋 Karate
 - 🤿 Dive
@@ -27,29 +27,11 @@ I am graduated in Business Administration, post graduated in Information Technol
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-9CF?style=flat-square&labelColor=9CF&logo=telegram&logoColor=white&link=https://t.me/LisandroGuerra)](https://t.me/LisandroGuerra)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lix@spartanix.com)](mailto:lix@spartanix.com)
  
-Also in:
-https://www.spartanix.com
-https://www.vivaolinux.com.br/~Lisandro
+## Also in:
+- https://www.spartanix.com
+- https://www.vivaolinux.com.br/~Lisandro
 
-- Thanks for visiting. 
+### Thanks for visiting. 
  
-- Enjoy it!! o/
+### Enjoy it!! 🙋‍♂️
 
-
-
-<!--
-### Hi there 👋
-
-
-**LisandroGuerra/LisandroGuerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
