@@ -9,7 +9,7 @@
 I am graduated in Business Administration, post graduated in Information Technology Management and Governance and studying Computer Science with graduation scheduled for 2024.
  
 ### Things that I love:
-- 💻 Computers and tecnologi
+- 💻 Computers and technology
 - 🐧 GNU/Linux 
 - 🐚 Shell Script
 - 🐍 Python
@@ -27,6 +27,10 @@ I am graduated in Business Administration, post graduated in Information Technol
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-9CF?style=flat-square&labelColor=9CF&logo=telegram&logoColor=white&link=https://t.me/LisandroGuerra)](https://t.me/LisandroGuerra)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lix@spartanix.com)](mailto:lix@spartanix.com)
  
+Also in:
+https://www.spartanix.com
+https://www.vivaolinux.com.br/~Lisandro
+
 - Thanks for visiting. 
  
 - Enjoy it!! o/
