@@ -3,22 +3,23 @@
 # Welcome!
  
 ## I'm Lisandro!
+
+## About me
+
+I am graduated in Business Administration, post graduated in Information Technology Management and Governance and studying Computer Science with graduation scheduled for 2024.
  
 ### Things that I love:
--🐧 GNU/Linux 
--🐚 Shell Script
--🐍 Python
--⚛️ Eletronics
--🤖 Robotics
--🎮 Video Games
--😻 Pets
--🏀 Basketball
--🥋 Karate
--🤿 Dive
-
- 
- 
-## About me 
+- 💻 Computers and tecnologi
+- 🐧 GNU/Linux 
+- 🐚 Shell Script
+- 🐍 Python
+- ⚛️ Eletronics
+- 🤖 Robotics
+- 🎮 Video Games
+- 😻 Pets
+- 🏀 Basketball
+- 🥋 Karate
+- 🤿 Dive
 
 ## 📫 How to reach me:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/LisandroGuerra)](https://github.com/LisandroGuerra)
