@@ -14,16 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-    <link rel="stylesheet" href="style.css">
-    <title>LauchBase</title>
-</head>
-<body>
+
 
     <header>
         <h1>LauchBase</h1>
@@ -38,5 +29,4 @@ Here are some ideas to get you started:
         <img class="avatar" src="https://avatars1.githubusercontent.com/u/4958565?s=460&u=ceff8d11ef56a14564076dde36855e84b4c04d8d&v=4" alt="face photografy">
     </div>
 
-</body>                                         
-</html>
+
