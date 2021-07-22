@@ -2,8 +2,7 @@
 
 <!--
 **LisandroGuerra/LisandroGuerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,8 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-        <h2>Lisandro Guerra</h2>
-        <img class="avatar" src="https://avatars1.githubusercontent.com/u/4958565?s=460&u=ceff8d11ef56a14564076dde36855e84b4c04d8d&v=4" alt="face photografy">
-
