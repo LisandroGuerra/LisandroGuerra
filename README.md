@@ -1,9 +1,5 @@
-<style>
-img {
-  border-radius: 50%;
-}
-</style>
-<img align="right" width="400" style="border-radius: 50%;"src="Mars_Virtual_Photo_1.png">
+
+<img align="right" width="400" style="border-radius:50%;" src="Mars_Virtual_Photo_1.png">
  
 # Welcome!
  
