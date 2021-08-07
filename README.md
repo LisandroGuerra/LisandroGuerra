@@ -5,7 +5,7 @@
  
 ## I'm Lisandro ♂️
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=LisandroGuerra" alt="LisandroGuerra" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=LisandroGuerra" alt="Lisandro Guerra" /> </p>
 
 ## About me
 
