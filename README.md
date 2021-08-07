@@ -5,6 +5,8 @@
  
 ## I'm Lisandro ♂️
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=LisandroGuerra" alt="LisandroGuerra" /> </p>
+
 ## About me
 
 I am graduated in Business Administration, post graduated in Information Technology Management and Governance and studying Computer Science with graduation scheduled for 2024.
