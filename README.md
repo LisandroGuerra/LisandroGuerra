@@ -34,6 +34,9 @@ I am graduated in Business Administration, post graduated in Information Technol
 - https://www.spartanix.com
 - https://www.vivaolinux.com.br/~Lisandro
 
+<img src="https://github-readme-stats.vercel.app/api?username=LisandroGuerra&show_icons=true" alt="Lisandro Guerra"/> 
+</p>
+
 ### Thanks for visiting. 
  
 ### Enjoy it!! 🙋‍♂️
