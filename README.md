@@ -16,7 +16,7 @@ I am graduated in Business Administration, post graduated in Information Technol
 </a>
 
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LisandroGuerra&layout=compact&theme=radical)](https://github.com/LisandroGuerra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LisandroGuerra&layout=compact&theme=radical)](https://github.com/LisandroGuerra)
 
  
 ### Things that I love:
