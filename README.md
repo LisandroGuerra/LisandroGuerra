@@ -11,9 +11,11 @@
 
 I am graduated in Business Administration, post graduated in Information Technology Management and Governance and studying Computer Science with graduation scheduled for 2024.
 
-<span>
+
   <img src="https://github-readme-stats.vercel.app/api?username=LisandroGuerra&show_icons=true&theme=radical" alt="Lisandro Guerra"/>
-</span>
+
+
+
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LisandroGuerra&layout=compact&theme=radical)](https://github.com/LisandroGuerra/github-readme-stats)
 
  
