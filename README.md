@@ -11,7 +11,10 @@
 
 I am graduated in Business Administration, post graduated in Information Technology Management and Governance and studying Computer Science with graduation scheduled for 2024.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LisandroGuerra)](https://github.com/LisandroGuerra/github-readme-stats)
+
+<img src="https://github-readme-stats.vercel.app/api?username=LisandroGuerra&show_icons=true&theme=radical" alt="Lisandro Guerra"/> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LisandroGuerra&layout=compact&theme=radical)](https://github.com/LisandroGuerra/github-readme-stats)
 
  
 ### Things that I love:
@@ -37,8 +40,7 @@ I am graduated in Business Administration, post graduated in Information Technol
 - https://www.spartanix.com
 - https://www.vivaolinux.com.br/~Lisandro
 
-<img src="https://github-readme-stats.vercel.app/api?username=LisandroGuerra&show_icons=true&theme=radical" alt="Lisandro Guerra"/> 
-</p>
+
 
 ### Thanks for visiting. 
  
