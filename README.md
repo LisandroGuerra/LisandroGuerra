@@ -9,7 +9,7 @@
 
 ## About me
 
-I am graduated in Business Administration, post graduated in Information Technology Management and Governance and studying Computer Science with graduation scheduled for 2024.
+I am BA in Business Administration, graduated in Information Technology Management and Governance and studying Computer Science with graduation scheduled for 2024.
 
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=LisandroGuerra&show_icons=true&theme=vision-friendly-dark" alt="Lisandro Guerra"/>
