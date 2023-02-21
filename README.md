@@ -1,5 +1,5 @@
 
-<img align="right" width="320" src="Mars_Virtual_Photo_1.png">
+<!-- <img align="right" width="320" src="Mars_Virtual_Photo_1.png"> -->
  
 # Welcome!
  
