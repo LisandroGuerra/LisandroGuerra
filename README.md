@@ -9,7 +9,7 @@
 
 ## About me
 
-I am BA in Business Administration, graduated in Information Technology Management and Governance and studying Computer Science with graduation scheduled for 2024.
+I am an electronics technician, with a bachelor's degree in business administration, I specialized in information technology management and governance, I am studying computer science and a master's degree in management, entrepreneurship and innovation, both with graduation scheduled for 2024.
 
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=LisandroGuerra&show_icons=true&theme=vision-friendly-dark" alt="Lisandro Guerra"/>
@@ -19,7 +19,7 @@ I am BA in Business Administration, graduated in Information Technology Manageme
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LisandroGuerra&layout=compact&theme=vision-friendly-dark)](https://github.com/LisandroGuerra)
 
  
-### Things that I love:
+<!-- ### Things that I love:
 - 💻 Computers and technology
 - 🐧 GNU/Linux 
 - 🐚 Shell Script
@@ -30,7 +30,7 @@ I am BA in Business Administration, graduated in Information Technology Manageme
 - 🐾 Pets
 - 🏀 Basketball
 - 🥋 Karate
-- 🤿 Dive
+- 🤿 Dive -->
 
 ## 📫 How to reach me:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/LisandroGuerra)](https://github.com/LisandroGuerra)
