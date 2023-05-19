@@ -12,7 +12,9 @@
 I am an electronics technician, with a bachelor's degree in business administration, I specialized in information technology management and governance, I am studying computer science and a master's degree in management, entrepreneurship and innovation, both with graduation scheduled for 2024.
 
 <a href="#">
+ <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LisandroGuerra&show_icons=true&theme=vision-friendly-dark" alt="Lisandro Guerra"/>
+ </p>
 </a>
 
 
