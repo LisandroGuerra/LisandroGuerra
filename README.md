@@ -35,13 +35,12 @@ I am an electronics technician, with a bachelor's degree in business administrat
 - 🤿 Dive -->
 
 ## 📫 How to reach me:
- <p align="center">
+
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/LisandroGuerra)](https://github.com/LisandroGuerra)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lisandro-guerra)](https://www.linkedin.com/in/lisandro-guerra)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-9CF?style=flat-square&labelColor=9CF&logo=telegram&logoColor=white&link=https://t.me/LisandroGuerra)](https://t.me/LisandroGuerra)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lix@spartanix.com)](mailto:lix@spartanix.com)
- </p>
- 
+
 ## Also in:
 - https://www.spartanix.com
 - https://www.vivaolinux.com.br/~Lisandro
