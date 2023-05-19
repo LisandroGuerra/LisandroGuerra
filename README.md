@@ -17,10 +17,10 @@ I am an electronics technician, with a bachelor's degree in business administrat
  </p>
 </a>
 
-<p align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LisandroGuerra&layout=compact&theme=vision-friendly-dark)](https://github.com/LisandroGuerra)
-</p>
- 
+
+  [![Top Langs](<p align="center">https://github-readme-stats.vercel.app/api/top-langs/?username=LisandroGuerra&layout=compact&theme=vision-friendly-dark)</p>
+ ](https://github.com/LisandroGuerra)
+
 <!-- ### Things that I love:
 - 💻 Computers and technology
 - 🐧 GNU/Linux 
